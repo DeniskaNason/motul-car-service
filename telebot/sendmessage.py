@@ -1,7 +1,7 @@
 import requests
 from .models import TeleSettings
 
-token = '5829275733:AAGg_zN3YN0h2-KV55lGCw1t2GAJhTW1VI4'
+token = ''
 chat_id = '@Stanciya_zayavka'
 text = 'testestestes'
 
